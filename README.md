@@ -22,7 +22,7 @@ Clone the repository
 
 sh
 Copy code
-git clone https://github.com/your-username/pokemon-card-generator.git
+git clone https://github.com/Ahbab18/pokemon-card-generator.git
 Open the project directory
 
 sh
